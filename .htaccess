@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^strona/(.+) /index.php?page=$1 [L]
+RewriteRule ^dodaj_opinie /index.php?dodaj_opinie=1 [L]
