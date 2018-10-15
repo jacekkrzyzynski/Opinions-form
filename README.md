@@ -5,9 +5,9 @@
 ```
 <?php require('index.php'); ?>
 
-```
+Set write permissions to /avatars and /opinions.sqlite
 
-### Set write permissions to /avatars and /opinions.sqlite
+```
 
 ### Notes
 
