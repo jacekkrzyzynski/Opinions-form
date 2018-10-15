@@ -3,7 +3,7 @@
 ### Standalone or import into PHP script
 
 ```
-$ <?php require('index.php'); ?>
+<?php require('index.php'); ?>
 
 ```
 
