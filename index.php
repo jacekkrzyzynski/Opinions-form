@@ -100,7 +100,7 @@ if (isset($_POST['formsubmitted']))
 ?><!DOCTYPE html>
 <html lang="pl-PL">
 <head>
-  <title>Jacek Krzyżyński - moduł opinii dla BRAINBOX</title>
+  <title>Opinie</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
